@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    justify-content: center; 
+    padding-top: 80px; 
+    height: auto;
+    box-sizing: border-box;
+  }
+  
+  .cardbody {
+    background-color: white;
+    padding: 25px;
+    width: 500px;
+    text-align: left; 
+  }
+  .background{
+    background-color: whitesmoke;
+    height: 100px;
+  }
+  .cardbutton{
+    border-radius: 3px;
+    padding: 3px;
+    background-color: whitesmoke;
+    border: grey;
+  }
+
+  .cardbody img{
+    width: 100%;
+    height: auto;
+  }
+.cardbody h3 {
+  margin-top: 20px;
+}
