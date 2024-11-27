@@ -9,10 +9,10 @@ function App() {
   return (
     <>
        {/* TITOLO */}
-       <header className="titleContainer">
-        <h1 className="mainTitle">Task Manager</h1>
-      </header>
-      
+      <Header />
+      <Card />
+      <Footer />
+
     </>
   )
 }
