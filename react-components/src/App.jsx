@@ -1,6 +1,6 @@
-import Header from "../components/header"
-import Card from '../components/card'
-import Footer from "../components/footer"
+import Header from "./components/header.jsx"
+import Card from './components/card.jsx'
+import Footer from "./components/footer.jsx"
 
 function App() {
 
